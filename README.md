@@ -6,7 +6,7 @@ This script can encrypt any file and later decrypt it back to its original form 
 
 Features
 - Generate a strong random encryption key.
-- Save and load encryption keys from a `.key` file.
+- Save and load encryption keys from a ".key" file.
 - Encrypt any file (text, image, etc.).
 - Decrypt files back to their original state.
 - Uses AES (via Fernet) for secure symmetric encryption.
